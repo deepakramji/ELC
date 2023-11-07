@@ -1,16 +1,12 @@
 {
     "name": "Herman Miller Eames Lounge Chair",
     "description": "Herman Miller Eames Lounge Chair",
-    "image": "https://github.com/deepakramji/ELC/blob/main/ELC.jpg",
+    "image": "https://raw.githubusercontent.com/deepakramji/ELC/main/ELC.jpg",
     "external_url": "https://www.hermanmiller.com/en_in/",
     "attributes": [
         {
-            "trait_type": "Artefact", 
-            "value": "Socks"
-        },
-        {
-            "trait_type": "Collection", 
-            "value": "Genesis"
+            "trait_type": "Lounge Seating", 
+            "value": "Eames Lounge Chair"
         }
     ]
 }
