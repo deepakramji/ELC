@@ -1,0 +1,12 @@
+{
+    "name": "Herman Miller Eames Lounge Chair",
+    "description": "Herman Miller Eames Lounge Chair",
+    "image": "https://raw.githubusercontent.com/deepakramji/ELC/main/NFTImage2.png",
+    "external_url": "https://www.hermanmiller.com/en_in/",
+    "attributes": [
+        {
+            "trait_type": "Lounge Seating", 
+            "value": "Eames Lounge Chair"
+        }
+    ]
+}
