@@ -1,12 +1,12 @@
 {
-    "name": "Herman Miller Eames Lounge Chair",
-    "description": "Herman Miller Eames Lounge Chair",
+    "name": "Sample NFT-1",
+    "description": "Sample NFT created on testnet for training purpose",
     "image": "https://raw.githubusercontent.com/deepakramji/ELC/main/NFTImage1.png",
-    "external_url": "https://www.hermanmiller.com/en_in/",
+    "external_url": "https://aaa.bbb.ccc",
     "attributes": [
         {
-            "trait_type": "Lounge Seating", 
-            "value": "Eames Lounge Chair"
+            "trait_type": "Sample Trait", 
+            "value": " Sample Value"
         }
     ]
 }
