@@ -1,7 +1,7 @@
 {
     "name": "Herman Miller Eames Lounge Chair",
     "description": "Herman Miller Eames Lounge Chair",
-    "image": ["https://raw.githubusercontent.com/deepakramji/ELC/main/ELC.jpg"],
+    "image": "https://raw.githubusercontent.com/deepakramji/ELC/main/ELC.jpg",
     "external_url": "https://www.hermanmiller.com/en_in/",
     "attributes": [
         {
